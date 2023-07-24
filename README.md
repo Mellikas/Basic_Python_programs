@@ -15,7 +15,7 @@ The program was created to familiarize with:
 2. Upload the unzipped files to your project
 3. In terminal run: `pip install -r requirements.txt`
 4. Run "Exam_tests_table" file for creating database (exams.db)
-5. Run "Exam_tests_program" follow instructions in terminal in this order:
+5. Run "Exam_tests_program" and follow instructions in terminal in this order:
    - create new user 
    - create new exam test
    - create new question *(creat more than 1 question)*
